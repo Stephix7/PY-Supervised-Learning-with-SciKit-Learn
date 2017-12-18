@@ -135,4 +135,4 @@ for alpha in alpha_space:
     # Append the std of ridge_cv_scores to ridge_scores_std
     ridge_scores_std.append(np.std(ridge_cv_scores))
 # Display the plot
-display_plot(ridge_scores, ridge_scores_std)
+display_plot(ridge_scores, ridge_scores_std) 
