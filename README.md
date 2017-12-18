@@ -2,7 +2,7 @@
 
 ## 1 - Classification 
 
-** Snippet ** | ** Description ** | ** Method ** | ** Dataset **
+Snippet  |  Description  |  Method  |  Dataset 
 --- | --- | --- | ----
 k-Nearest Neighbors: Fit | sklearn.neighbours -  KNeighborsClassifier - fit  | K Nearest Neighbors | df Congressmen
 k-Nearest Neighbors: Predict | sklearn.neighbours -  KNeighborsClassifier - fit & predict  | K Nearest Neighbors | df Congressmen
