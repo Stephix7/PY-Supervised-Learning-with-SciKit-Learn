@@ -172,4 +172,4 @@ gm_cv.fit(X_train,y_train)
 # Compute and print the metrics
 r2 = gm_cv.score(X_test, y_test)
 print("Tuned ElasticNet Alpha: {}".format(gm_cv.best_params_))
-print("Tuned ElasticNet R squared: {}".format(r2))
+print("Tuned ElasticNet R squared: {}".format(r2)) 
